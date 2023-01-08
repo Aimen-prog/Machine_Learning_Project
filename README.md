@@ -1,6 +1,6 @@
 # Description
 The underlying question is to build a model that can predict the cancer class from the given features.
-In this project, machine learning models were used to predict the class of five cancers (BRCA, KIRC, COAD, LUAD and PRAD) using 20531 genes
+In this project, 3 machine learning models were used to predict the class of five cancers (BRCA, KIRC, COAD, LUAD and PRAD) using 20531 genes
 according to their level of expression in 801 individuals. The collection of data is part of the RNA-Seq (HiSeq) PANCAN data set:
 https://archive.ics.uci.edu/ml/datasets/gene+expression+cancer+RNA-Seq
 
